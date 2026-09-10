@@ -1,0 +1,7 @@
+# Runtime data: local posts, agents, generated uploads, logs, and PID files.
+data/
+uploads/
+__pycache__/
+*.py[cod]
+server.log
+server.pid
